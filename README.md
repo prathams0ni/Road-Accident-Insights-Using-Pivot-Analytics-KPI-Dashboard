@@ -170,7 +170,3 @@ User can filter the entire dashboard by:
 
 ---
 
-## 👤 Author
-**Pratham Soni**  
-Data Analyst | BI Developer | Machine Learning Enthusiast  
-
