@@ -153,14 +153,25 @@ User can filter the entire dashboard by:
 
 ---
 
-## 🚀 How to Use This Dashboard
+## 📥 How to Download the Excel Dashboard (IMPORTANT)
 
-1. Download the file  
-2. Open in Excel (2016 or later recommended)  
-3. Navigate to **Dashboard** sheet  
-4. Use slicers/filters to explore insights  
-5. Read KPIs and visuals to understand patterns  
+This project uses **Git LFS (Large File Storage)** for large files.  
+Because of this:
 
+❌ `Code → Download ZIP` will NOT include the real Excel file  
+❌ The ZIP will only contain a small 1 KB placeholder  
+✅ You must download the Excel file directly from GitHub
+
+### ✅ Correct Download Method
+
+To download the full Excel dashboard:
+
+1. Open this repository
+2. Click the file:
+3. On the top-right of the file view,click: download
+ 
+✅ This will download the full Excel file (~56 MB)  
+✅ The dashboard will open correctly
 
 ---
 
