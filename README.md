@@ -174,7 +174,6 @@ To download the full Excel dashboard:
 ✅ The dashboard will open correctly
 
 ---
-
 ## 📜 Dashboard Overview:
 
 <img width="1854" height="832" alt="image" src="https://github.com/user-attachments/assets/5fa02c76-8256-4cb2-b314-91487f8b8809" />
